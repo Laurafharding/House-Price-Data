@@ -1,0 +1,418 @@
+lad_code,lad,seventeen,color
+S12000034,Aberdeenshire,"188,857.49",#ff4d4d
+E07000223,Adur,"303,712.44",#800000
+E07000026,Allerdale,"150,283.66",#ff8080
+E07000032,Amber Valley,"154,432.54",#ff8080
+S12000041,Angus,"145,185.00",#ffb3b3
+N09000001,Antrim and Newtownabbey,"130,556.74",#ffb3b3
+S12000035,Argyll and Bute,"128,667.52",#ffb3b3
+N09000002,Armagh Banbridge and Craigavon,"111,137.33",#ffcccc
+E07000224,Arun,"268,020.25",#b30000
+E07000170,Ashfield,"128,599.88",#ffb3b3
+E07000105,Ashford,"274,724.36",#b30000
+E07000004,Aylesbury Vale,"317,962.26",#800000
+E07000200,Babergh,"269,601.78",#b30000
+E09000002,Barking and Dagenham,"283,521.10",#990000
+E09000003,Barnet,"530,647.26",#330000
+E08000016,Barnsley,"109,621.98",#ffcccc
+E07000027,Barrow-in-Furness,"112,517.25",#ffcccc
+E07000066,Basildon,"297,793.78",#990000
+E07000084,Basingstoke and Deane,"300,854.38",#800000
+E07000171,Bassetlaw,"146,416.95",#ffb3b3
+E06000022,Bath and North East Somerset,"324,602.54",#800000
+E06000055,Bedford,"272,437.92",#b30000
+E07000027,Belfast,"118,692.48",#ffcccc
+E07000066,Bexley,"330,489.43",#660000
+E07000084,Birmingham,"165,826.33",#ff8080
+E07000171,Blaby,"202,254.08",#ff1a1a
+E06000008,Blackburn with Darwen,"104,869.16",#ffcccc
+E06000009,Blackpool,"105,170.39",#ffcccc
+W06000019,Blaenau Gwent,"78,641.20",#ffe6e6
+E07000033,Bolsover,"114,753.34",#ffcccc
+E08000001,Bolton,"124,581.38",#ffcccc
+E07000136,Boston,"138,470.97",#ffb3b3
+E06000028,Bournemouth,"233,282.41",#cc0000
+E06000036,Bracknell Forest,"346,786.44",#660000
+E08000032,Bradford,"129,569.01",#ffb3b3
+E07000067,Braintree,"268,132.43",#b30000
+E07000143,Breckland,"213,004.46",#ff1a1a
+E09000005,Brent,"469,493.60",#330000
+E07000068,Brentwood,"407,598.21",#330000
+W06000013,Bridgend,"138,840.26",#ffb3b3
+E06000043,Brighton and Hove,"350,038.50",#660000
+E07000144,Broadland,"244,733.95",#cc0000
+E09000006,Bromley,"439,150.09",#330000
+E07000234,Bromsgrove,"257,808.75",#b30000
+E07000095,Broxbourne,"343,438.73",#660000
+E07000172,Broxtowe,"167,008.31",#ff8080
+E10000002,Buckinghamshire,"396,341.98",#330000
+E07000117,Burnley,"75,197.22",#ffe6e6
+E08000002,Bury,"153,272.24",#ff8080
+W06000018,Caerphilly,"119,311.92",#ffcccc
+E08000033,Calderdale,"127,898.26",#ffb3b3
+E07000008,Cambridge,"426,596.39",#330000
+E10000003,Cambridgeshire,"278,397.11",#990000
+E09000007,Camden,"848,748.15",#330000
+E07000192,Cannock Chase,"153,442.05",#ff8080
+E07000106,Canterbury,"281,260.91",#990000
+W06000015,Cardiff,"190,335.92",#ff4d4d
+E07000028,Carlisle,"133,119.31",#ffb3b3
+W06000010,Carmarthenshire,"133,844.71",#ffb3b3
+E07000069,Castle Point,"290,800.77",#990000
+N09000004,Causeway Coast and Glens,"129,174.70",#ffb3b3
+E06000056,Central Bedfordshire,"293,240.41",#990000
+W06000008,Ceredigion,"171,289.78",#ff8080
+E07000130,Charnwood,"198,744.25",#ff4d4d
+E07000070,Chelmsford,"312,861.82",#800000
+E07000078,Cheltenham,"249,360.34",#cc0000
+E07000177,Cherwell,"285,609.32",#990000
+E06000049,Cheshire East,"205,815.99",#ff1a1a
+E06000050,Cheshire West and Chester,"187,368.03",#ff4d4d
+E07000034,Chesterfield,"146,750.02",#ffb3b3
+E07000225,Chichester,"365,186.02",#4d0000
+E07000005,Chiltern,"539,886.86",#330000
+E07000118,Chorley,"161,047.98",#ff8080
+E07000048,Christchurch,"324,884.68",#800000
+S12000033,City of Aberdeen,"161,469.98",#ff8080
+E06000023,City of Bristol,"256,372.49",#b30000
+E06000015,City of Derby,"147,001.08",#ffb3b3
+S12000042,City of Dundee,"119,799.47",#ffcccc
+S12000036,City of Edinburgh,"226,718.98",#cc0000
+S12000046,City of Glasgow,"119,842.62",#ffcccc
+E06000010,City of Kingston upon Hull,"106,269.64",#ffcccc
+E09000001,City of London,"731,802.36",#330000
+E06000018,City of Nottingham,"128,281.56",#ffb3b3
+E06000031,City of Peterborough,"171,553.14",#ff8080
+E06000026,City of Plymouth,"163,405.46",#ff8080
+E09000033,City of Westminster,"1,045,186.21",#330000
+S12000005,Clackmannanshire,"112,340.76",#ffcccc
+E07000071,Colchester,"248,277.09",#cc0000
+W06000003,Conwy,"149,475.01",#ffb3b3
+E07000029,Copeland,"119,255.96",#ffcccc
+E07000150,Corby,"162,336.52",#ff8080
+E06000052,Cornwall,"215,809.76",#ff1a1a
+E07000079,Cotswold,"348,980.58",#660000
+E06000047,County Durham,"98,929.42",#ffe6e6
+E08000026,Coventry,"165,636.87",#ff8080
+E07000163,Craven,"202,052.02",#ff1a1a
+E07000226,Crawley,"274,543.88",#b30000
+E09000008,Croydon,"362,399.18",#4d0000
+E10000006,Cumbria,"151,571.40",#ff8080
+E07000096,Dacorum,"395,304.87",#330000
+E06000005,Darlington,"129,052.00",#ffb3b3
+E07000107,Dartford,"290,187.64",#990000
+E07000151,Daventry,"268,840.42",#b30000
+W06000004,Denbighshire,"143,745.76",#ffb3b3
+E10000007,Derbyshire,"161,812.17",#ff8080
+E07000035,Derbyshire Dales,"240,479.66",#cc0000
+N09000005,Derry and Strabane,"108,463.81",#ffcccc
+E10000008,Devon,"241,991.27",#cc0000
+E08000017,Doncaster,"119,893.66",#ffcccc
+E10000009,Dorset,"282,265.10",#990000
+E07000108,Dover,"226,501.82",#cc0000
+E08000027,Dudley,"157,478.21",#ff8080
+S12000006,Dumfries and Galloway,"120,679.29",#ffcccc
+E09000009,Ealing,"484,456.98",#330000
+S12000008,East Ayrshire,"94,530.84",#ffe6e6
+E07000009,East Cambridgeshire,"269,200.11",#b30000
+E07000040,East Devon,"266,296.59",#b30000
+E07000049,East Dorset,"334,815.37",#660000
+S12000045,East Dunbartonshire,"193,417.66",#ff4d4d
+E07000085,East Hampshire,"360,545.39",#4d0000
+E07000242,East Hertfordshire,"374,638.23",#4d0000
+E07000137,East Lindsey,"161,654.76",#ff8080
+S12000010,East Lothian,"191,343.03",#ff4d4d
+E07000152,East Northamptonshire,"211,560.44",#ff1a1a
+S12000011,East Renfrewshire,"212,578.97",#ff1a1a
+E06000011,East Riding of Yorkshire,"163,872.67",#ff8080
+E07000193,East Staffordshire,"171,585.82",#ff8080
+E06000011,East Sussex,"261,402.51",#b30000
+E07000061,Eastbourne,"229,014.78",#cc0000
+E07000086,Eastleigh,"265,935.77",#b30000
+E07000030,Eden,"184,309.58",#ff4d4d
+E07000207,Elmbridge,"593,093.86",#330000
+E09000010,Enfield,"392,234.54",#330000
+E07000072,Epping Forest,"446,231.38",#330000
+E07000208,Epsom and Ewell,"459,731.39",#330000
+E07000036,Erewash,"146,599.47",#ffb3b3
+E10000012,Essex,"295,296.78",#990000
+E07000041,Exeter,"238,683.11",#cc0000
+S12000014,Falkirk,"110,144.48",#ffcccc
+E07000087,Fareham,"276,069.02",#990000
+E07000010,Fenland,"172,548.43",#ff4d4d
+N09000006,Fermanagh and Omagh,"113,516.63",#ffcccc
+S12000015,Fife,"127,308.85",#ffb3b3
+W06000005,Flintshire,"159,893.03",#ff8080
+E07000201,Forest Heath,"212,120.07",#ff1a1a
+E07000080,Forest of Dean,"208,717.85",#ff1a1a
+E07000119,Fylde,"183,475.08",#ff4d4d
+E08000020,Gateshead,"125,233.62",#ffb3b3
+E07000173,Gedling,"162,702.18",#ff8080
+E07000081,Gloucester,"180,598.65",#ff4d4d
+E10000013,Gloucestershire,"240,700.71",#cc0000
+E07000088,Gosport,"192,949.11",#ff4d4d
+E07000109,Gravesham,"273,697.58",#b30000
+E07000145,Great Yarmouth,"157,426.28",#ff8080
+E09000011,Greenwich,"376,340.59",#330000
+E07000209,Guildford,"447,728.43",#330000
+W06000002,Gwynedd,"146,202.76",#ffb3b3
+E09000012,Hackney,"563,244.16",#330000
+E06000006,Halton,"126,807.08",#ffb3b3
+E07000164,Hambleton,"227,880.48",#cc0000
+E09000013,Hammersmith and Fulham,"759,471.28",#330000
+E10000014,Hampshire,"300,948.25",#800000
+E07000131,Harborough,"256,858.71",#b30000
+E09000014,Haringey,"555,283.56",#330000
+E07000073,Harlow,"266,347.15",#b30000
+E07000165,Harrogate,"272,810.22",#b30000
+E09000015,Harrow,"461,688.83",#330000
+E07000089,Hart,"394,310.30",#330000
+E06000001,Hartlepool,"103,081.82",#ffcccc
+E07000062,Hastings,"194,747.40",#ff4d4d
+E07000090,Havant,"252,326.77",#b30000
+E09000016,Havering,"353,829.19",#4d0000
+E06000019,Herefordshire,"216,556.50",#ff1a1a
+E10000015,Hertfordshire,"390,252.13",#330000
+E07000098,Hertsmere,"455,232.23",#330000
+E07000037,High Peak,"179,179.45",#ff4d4d
+S12000017,Highland,"154,601.85",#ff8080
+E09000017,Hillingdon,"410,488.97",#330000
+E07000132,Hinckley and Bosworth,"193,745.98",#ff4d4d
+E07000227,Horsham,"375,317.61",#330000
+E09000018,Hounslow,"398,752.13",#330000
+E07000011,Huntingdonshire,"246,112.62",#cc0000
+E07000120,Hyndburn,"89,919.92",#ffe6e6
+S12000018,Inverclyde,"96,391.61",#ffe6e6
+E07000202,Ipswich,"184,871.58",#ff4d4d
+W06000001,Isle of Anglesey,"156,644.73",#ff8080
+E06000046,Isle of Wight,"200,245.92",#ff1a1a
+E09000019,Islington,"652,212.32",#330000
+E09000020,Kensington And Chelsea,"1,362,208.76",#330000
+E10000016,Kent,"275,766.75",#990000
+E07000153,Kettering,"179,992.58",#ff4d4d
+E07000146,King's Lynn and West Norfolk ,"199,563.66",#ff4d4d
+E09000021,Kingston upon Thames,"488,108.28",#330000
+E08000034,Kirklees,"138,368.82",#ffb3b3
+E08000011,Knowsley,"119,300.81",#ffcccc
+E09000022,Lambeth,"516,375.91",#330000
+E10000017,Lancashire,"135,222.39",#ffb3b3
+E07000121,Lancaster,"146,098.61",#ffb3b3
+E08000035,Leeds,"168,602.16",#ff8080
+E06000016,Leicester,"150,873.22",#ff8080
+E10000018,Leicestershire,"204,005.24",#ff1a1a
+E07000063,Lewes,"299,036.98",#990000
+E09000023,Lewisham,"414,650.24",#330000
+E07000194,Lichfield,"230,244.03",#cc0000
+E07000138,Lincoln,"137,604.02",#ffb3b3
+E10000019,Lincolnshire,"166,228.95",#ff8080
+N09000007,Lisburn and Castlereagh,"149,600.25",#ffb3b3
+E08000012,Liverpool,"125,495.44",#ffb3b3
+E09000001,London,"478,984.05",#330000
+E06000032,Luton,"228,277.07",#cc0000
+E07000110,Maidstone,"278,003.69",#990000
+E07000074,Maldon,"311,376.26",#800000
+E07000235,Malvern Hills,"246,052.61",#cc0000
+E08000003,Manchester,"158,890.11",#ff8080
+E07000174,Mansfield,"123,370.51",#ffcccc
+E06000035,Medway,"230,087.02",#cc0000
+E07000133,Melton,"211,923.17",#ff1a1a
+E07000187,Mendip,"238,713.29",#cc0000
+W06000024,Merthyr Tydfil,"95,991.35",#ffe6e6
+E09000024,Merton,"487,510.51",#330000
+N09000008,Mid and East Antrim,"118,689.16",#ffcccc
+E07000042,Mid Devon,"218,577.68",#ff1a1a
+E07000203,Mid Suffolk,"252,586.19",#b30000
+E07000228,Mid Sussex,"367,223.39",#4d0000
+N09000009,Mid Ulster,"124,617.52",#ffcccc
+E06000002,Middlesbrough,"108,721.06",#ffcccc
+S12000019,Midlothian,"160,574.68",#ff8080
+E06000042,Milton Keynes,"252,083.15",#b30000
+E07000210,Mole Valley,"498,651.82",#330000
+W06000021,Monmouthshire,"227,595.52",#cc0000
+S12000020,Moray,"145,751.96",#ffb3b3
+S12000013,Na h-Eileanan Siar,"110,716.71",#ffcccc
+W06000012,Neath Port Talbot,"106,900.83",#ffcccc
+E07000091,New Forest,"321,632.06",#800000
+E07000175,Newark and Sherwood,"170,306.23",#ff8080
+E08000021,Newcastle upon Tyne,"159,014.74",#ff8080
+E07000195,Newcastle-under-Lyme,"142,705.70",#ffb3b3
+E09000025,Newham,"356,924.92",#4d0000
+W06000022,Newport,"153,990.02",#ff8080
+N09000010,Newry Mourne and Down,"128,416.42",#ffb3b3
+E10000020,Norfolk,"212,292.27",#ff1a1a
+S12000021,North Ayrshire,"97,110.24",#ffe6e6
+E07000043,North Devon,"222,466.32",#ff1a1a
+E07000050,North Dorset,"249,741.78",#cc0000
+E07000038,North East Derbyshire,"168,525.09",#ff8080
+E06000012,North East Lincolnshire,"116,696.58",#ffcccc
+E07000099,North Hertfordshire,"331,972.61",#660000
+E07000139,North Kesteven,"184,827.48",#ff4d4d
+S12000044,North Lanarkshire,"99,270.72",#ffe6e6
+E06000013,North Lincolnshire,"135,597.85",#ffb3b3
+E07000147,North Norfolk,"235,088.06",#cc0000
+E06000024,North Somerset,"246,457.61",#cc0000
+E08000022,North Tyneside,"154,198.91",#ff8080
+E07000218,North Warwickshire,"188,421.21",#ff4d4d
+E07000134,North West Leicestershire,"184,385.01",#ff4d4d
+E10000023,North Yorkshire,"210,162.09",#ff1a1a
+E07000154,Northampton,"192,376.12",#ff4d4d
+E10000021,Northamptonshire,"207,932.29",#ff1a1a
+E06000048,Northumberland,"148,438.85",#ffb3b3
+E07000148,Norwich,"191,238.59",#ff4d4d
+E10000024,Nottinghamshire,"161,921.74",#ff8080
+E07000219,Nuneaton and Bedworth,"158,371.35",#ff8080
+E07000135,Oadby and Wigston,"191,651.42",#ff4d4d
+E08000004,Oldham,"121,050.07",#ffcccc
+S12000023,Orkney Islands,"117,026.99",#ffcccc
+E07000178,Oxford,"410,008.53",#330000
+E10000025,Oxfordshire,"350,700.13",#4d0000
+W06000009,Pembrokeshire,"165,424.78",#ff8080
+E07000122,Pendle,"93,841.07",#ffe6e6
+S12000024,Perth and Kinross,"176,840.80",#ff4d4d
+E06000029,Poole,"293,465.96",#990000
+E06000044,Portsmouth,"197,411.97",#ff4d4d
+W06000023,Powys,"172,897.71",#ff4d4d
+E07000123,Preston,"122,060.97",#ffcccc
+E07000051,Purbeck,"327,707.66",#660000
+E06000038,Reading,"300,449.51",#800000
+E09000026,Redbridge,"411,499.38",#330000
+E06000003,Redcar and Cleveland,"115,490.87",#ffcccc
+E07000236,Redditch,"191,854.43",#ff4d4d
+E07000211,Reigate and Banstead,"397,577.18",#330000
+S12000038,Renfrewshire,"111,431.12",#ffcccc
+W06000016,Rhondda Cynon Taf,"99,217.37",#ffe6e6
+E07000124,Ribble Valley,"207,230.32",#ff1a1a
+E09000027,Richmond upon Thames,"660,384.70",#330000
+E07000166,Richmondshire,"206,495.53",#ff1a1a
+E08000005,Rochdale,"119,168.82",#ffcccc
+E07000075,Rochford,"320,390.47",#800000
+E07000125,Rossendale,"120,548.01",#ffcccc
+E07000064,Rother,"270,483.56",#b30000
+E08000018,Rotherham,"129,294.34",#ffb3b3
+E07000220,Rugby,"212,619.99",#ff1a1a
+E07000212,Runnymede,"399,131.49",#330000
+E07000176,Rushcliffe,"257,886.02",#b30000
+E07000092,Rushmoor,"277,887.58",#990000
+E06000017,Rutland,"277,530.01",#990000
+E07000167,Ryedale,"216,926.38",#ff1a1a
+E08000006,Salford,"145,124.87",#ffb3b3
+E08000028,Sandwell,"129,586.49",#ffb3b3
+E07000168,Scarborough,"153,402.42",#ff8080
+S12000026,Scottish Borders,"144,329.89",#ffb3b3
+E07000188,Sedgemoor,"206,265.51",#ff1a1a
+E08000014,Sefton,"151,408.44",#ff8080
+E07000169,Selby,"191,316.24",#ff4d4d
+E07000111,Sevenoaks,"413,521.21",#330000
+E08000019,Sheffield,"150,918.12",#ff8080
+E07000112,Shepway,"234,350.79",#cc0000
+S12000027,Shetland Islands,"180,820.50",#ff4d4d
+E06000051,Shropshire,"202,619.98",#ff1a1a
+E06000039,Slough,"295,627.59",#990000
+E08000029,Solihull,"260,968.04",#b30000
+E10000027,Somerset,"217,944.25",#ff1a1a
+S12000028,South Ayrshire,"125,938.08",#ffb3b3
+E07000006,South Bucks,"610,334.60",#330000
+E07000012,South Cambridgeshire,"360,242.76",#4d0000
+E07000039,South Derbyshire,"182,361.87",#ff4d4d
+E06000025,South Gloucestershire,"256,635.06",#b30000
+E07000044,South Hams,"297,376.02",#990000
+E07000140,South Holland,"171,164.37",#ff8080
+E07000141,South Kesteven,"193,725.91",#ff4d4d
+E07000031,South Lakeland,"225,574.54",#cc0000
+S12000029,South Lanarkshire,"118,993.10",#ffcccc
+E07000149,South Norfolk,"247,585.60",#cc0000
+E07000155,South Northamptonshire,"299,630.38",#990000
+E07000179,South Oxfordshire,"410,332.23",#330000
+E07000126,South Ribble,"160,895.48",#ff8080
+E07000189,South Somerset,"216,422.46",#ff1a1a
+E07000196,South Staffordshire,"210,508.04",#ff1a1a
+E08000023,South Tyneside,"129,051.42",#ffb3b3
+E06000045,Southampton,"199,677.19",#ff4d4d
+E06000033,Southend-on-Sea,"263,984.80",#b30000
+E09000028,Southwark,"505,881.05",#330000
+E07000213,Spelthorne,"364,165.26",#4d0000
+E07000240,St Albans,"510,161.95",#330000
+E07000204,St Edmundsbury,"266,945.85",#b30000
+E08000013,St Helens,"122,089.98",#ffcccc
+E07000197,Stafford,"193,083.93",#ff4d4d
+E10000028,Staffordshire,"176,941.77",#ff4d4d
+E07000198,Staffordshire Moorlands,"161,111.20",#ff8080
+E07000243,Stevenage,"271,703.21",#b30000
+S12000030,Stirling,"175,559.19",#ff4d4d
+E08000007,Stockport,"200,487.28",#ff1a1a
+E06000004,Stockton-on-Tees,"131,134.01",#ffb3b3
+E06000021,Stoke-on-Trent,"101,227.69",#ffcccc
+E07000221,Stratford-on-Avon,"298,659.62",#990000
+E07000082,Stroud,"255,209.65",#b30000
+E10000029,Suffolk,"229,689.54",#cc0000
+E07000205,Suffolk Coastal,"272,430.86",#b30000
+E08000024,Sunderland,"109,700.45",#ffcccc
+E10000030,Surrey,"438,668.10",#330000
+E07000214,Surrey Heath,"385,101.48",#330000
+E09000029,Sutton,"363,037.27",#4d0000
+E07000113,Swale,"230,379.16",#cc0000
+W06000011,Swansea,"136,615.41",#ffb3b3
+E06000030,Swindon,"203,879.06",#ff1a1a
+E08000008,Tameside,"132,692.47",#ffb3b3
+E07000199,Tamworth,"167,770.71",#ff8080
+E07000215,Tandridge,"438,848.77",#330000
+E07000190,Taunton Deane,"217,020.86",#ff1a1a
+E07000045,Teignbridge,"233,943.85",#cc0000
+E06000020,Telford and Wrekin,"153,818.08",#ff8080
+E07000076,Tendring,"202,248.88",#ff1a1a
+E07000093,Test Valley,"309,743.60",#800000
+E07000083,Tewkesbury,"251,567.24",#b30000
+E07000114,Thanet,"215,058.55",#ff1a1a
+E07000102,Three Rivers,"500,756.98",#330000
+E06000034,Thurrock,"258,122.31",#b30000
+E07000115,Tonbridge and Malling,"348,565.20",#660000
+E06000027,Torbay,"186,267.94",#ff4d4d
+W06000020,Torfaen,"129,299.49",#ffb3b3
+E07000046,Torridge,"207,277.45",#ff1a1a
+E09000030,Tower Hamlets,"461,209.93",#330000
+E08000009,Trafford,"255,697.54",#b30000
+E07000116,Tunbridge Wells,"368,280.17",#4d0000
+E07000077,Uttlesford,"390,750.53",#330000
+W06000014,Vale of Glamorgan,"205,468.35",#ff1a1a
+E07000180,Vale of White Horse,"348,011.79",#660000
+E08000036,Wakefield,"138,163.99",#ffb3b3
+E08000030,Walsall,"148,031.34",#ffb3b3
+E09000031,Waltham Forest,"437,873.28",#330000
+E09000032,Wandsworth,"604,541.20",#330000
+E06000007,Warrington,"172,526.88",#ff4d4d
+E07000222,Warwick,"293,454.56",#990000
+E10000031,Warwickshire,"232,397.82",#cc0000
+E07000103,Watford,"357,875.69",#4d0000
+E07000206,Waveney,"178,730.58",#ff4d4d
+E07000216,Waverley,"445,081.63",#330000
+E07000065,Wealden,"319,144.80",#800000
+E07000156,Wellingborough,"193,745.75",#ff4d4d
+E07000241,Welwyn Hatfield,"383,714.66",#330000
+E06000037,West Berkshire,"341,206.27",#660000
+E07000047,West Devon,"238,648.26",#cc0000
+E07000052,West Dorset,"268,884.67",#b30000
+S12000039,West Dunbartonshire,"96,992.54",#ffe6e6
+E07000127,West Lancashire,"173,591.96",#ff4d4d
+E07000142,West Lindsey,"154,121.63",#ff8080
+S12000040,West Lothian,"138,951.28",#ffb3b3
+E07000181,West Oxfordshire,"326,383.37",#800000
+E07000191,West Somerset,"209,399.04",#ff1a1a
+E10000032,West Sussex,"313,539.54",#800000
+E07000053,Weymouth and Portland,"216,282.95",#ff1a1a
+E09000033,Wigan,"125,277.76",#ffb3b3
+E06000054,Wiltshire,"261,282.09",#b30000
+E07000094,Winchester,"400,491.82",#330000
+E06000040,Windsor and Maidenhead,"486,097.63",#330000
+E08000015,Wirral,"148,905.85",#ffb3b3
+E07000217,Woking,"410,056.68",#330000
+E06000041,Wokingham,"419,044.81",#330000
+E08000031,Wolverhampton,"132,309.02",#ffb3b3
+E07000237,Worcester,"195,577.09",#ff4d4d
+E10000034,Worcestershire,"218,300.78",#ff1a1a
+E07000229,Worthing,"265,878.46",#b30000
+W06000006,Wrexham,"155,261.61",#ff8080
+E07000238,Wychavon,"256,306.90",#b30000
+E07000007,Wycombe,"387,638.70",#330000
+E07000128,Wyre,"143,399.60",#ffb3b3
+E07000239,Wyre Forest,"170,272.18",#ff8080
+E06000014,York,"240,353.84",#cc0000
